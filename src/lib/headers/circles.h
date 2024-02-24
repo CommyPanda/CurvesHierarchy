@@ -1,5 +1,4 @@
 #pragma once
-#include "coordinates.h"
 #include "curves.h"
 #include <cmath>
 #include <utility>
